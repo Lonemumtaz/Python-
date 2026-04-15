@@ -19,3 +19,4 @@ print(div_result)
 print(mod_result)
 print(floor_div)
 print(power)
+#i am mumtaz ahmad lone
