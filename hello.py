@@ -1,1 +1,4 @@
-print("Hello, World!")
+print("Hello, World!") 
+print("Welcome to Python programming!")
+print("This is a simple Python script.")
+print("You can run this script to see the output.")
